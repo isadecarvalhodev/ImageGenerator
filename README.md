@@ -10,6 +10,7 @@
 <h2 align="center"> Using: </h2>
 
 
-<p align="center"> -REACT,JS and NODE.JS
+<p align="center"> REACT,
+JS and NODE.JS
 CHATGPT API
 Dall.E </p>
