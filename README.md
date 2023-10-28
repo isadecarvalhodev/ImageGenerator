@@ -1,10 +1,10 @@
-# ImageGenerator
+<h1 align="center"> ImageGenerator </h1>
 
 <h2> Work in progress ... </h2>
 
 
 ________
-This Imagine Generator only returns cute cats imagens and nothing else 
+<p align="center"> This Imagine Generator only returns cute cats imagens and nothing else  </p>
 _________
 
 
