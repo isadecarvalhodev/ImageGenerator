@@ -1,6 +1,7 @@
 # ImageGenerator
 
 Work in progress ...
+This Imagine Generator only return cute cats
 
 
 Using:
