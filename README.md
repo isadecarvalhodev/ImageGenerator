@@ -10,6 +10,6 @@
 <h2 align="center"> Using: </h2>
 
 
-REACT,JS and NODE.JS
+<p align="center"> -REACT,JS and NODE.JS
 CHATGPT API
-Dall.E
+Dall.E </p>
