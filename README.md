@@ -11,6 +11,6 @@
 
 
 <p align="center"> REACT,
-JS and NODE.JS
-CHATGPT API
+JS, NODE.JS
+CHATGPT API,
 Dall.E </p>
