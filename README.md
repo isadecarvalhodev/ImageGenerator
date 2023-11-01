@@ -6,7 +6,6 @@
 
 <h2 align="center"> Using: </h2>
 
-
 <p align="center"> REACT,
 JS, NODE.JS
 CHATGPT API,
