@@ -7,4 +7,4 @@
 <p align="center"> REACT,
 JS, NODE.JS,
 CHATGPT API,
-Dall.E </p>
+Dall.E</p>
